@@ -37,7 +37,7 @@ To use Arc Bookmarks Export, simply:
 
 1. Start the development server:
    ```bash
-   ppm run dev
+   pnpm run dev
    ```
 2. Open your web browser and navigate to [http://localhost:5173](http://localhost:5173).
 3. Follow the on-screen instructions to import your Arc bookmarks and convert them to HTML.
